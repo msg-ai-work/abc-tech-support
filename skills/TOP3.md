@@ -12,3 +12,4 @@
 - 고객 식별정보와 Credential은 Masking된 자료만 사용한다.
 - 고객 환경의 변경 명령은 AI가 자동 실행하지 않는다.
 - 지원 완료 후 반복 가능한 진단 절차는 Skill/Eval로 환류한다.
+- Top 3의 `SKILL.md`와 `EVAL.md` 구조는 `domain-eval-structure` GitHub Actions Check로 검증한다.
