@@ -1,7 +1,8 @@
 ---
 name: tech-support-domain-core
 summary: 기업메시징 기술지원과 발송클라이언트 설치·설정·연계·장애진단을 위한 운영 중심 Skill.
-owner-role: tech-support-domain-owner
+responsible-role: 담당자
+reviewer-role: Reviewer
 version: "0.1"
 migrated-from: msg-ai-work/abc/.kiro/skills/domains/tech-support-client/SKILL.md
 ---
